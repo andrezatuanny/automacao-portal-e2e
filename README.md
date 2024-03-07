@@ -54,7 +54,3 @@ O projeto está estruturado da seguinte forma:
 ## Contribuição
 
 Contribuições são bem-vindas! Se você deseja propor melhorias, correções de bugs ou novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
----
-
-Sinta-se à vontade para personalizar e ajustar este README conforme necessário para o seu projeto específico. Boa sorte com o bootcamp da Qazando e com a automação de testes!
