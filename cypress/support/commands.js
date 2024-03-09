@@ -25,3 +25,4 @@
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
 import './pages-commands/loginPages'
+import'./pages-commands/wishlistPage'
